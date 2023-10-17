@@ -6,7 +6,7 @@ let package = Package(
 	name: "SVGView",
 	platforms: [
 		.macOS(.v11),
-        .iOS(.v16),
+        .iOS(.v14),
         .watchOS(.v7)
     ],
     products: [
